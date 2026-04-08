@@ -100,9 +100,9 @@ This application allows users to create, manage, and monitor scheduled jobs dire
    git clone <your-repo-url>
 
 2. Update database connection string and email credentials in:
-    appsettings.json
+    - appsettings.json
 
 3. Run migrations / create database
-    Update-Database -Project QuartzData -StartupProject QuartzAPI
+    - Update-Database -Project QuartzData -StartupProject QuartzAPI
 
 4. Run Project
