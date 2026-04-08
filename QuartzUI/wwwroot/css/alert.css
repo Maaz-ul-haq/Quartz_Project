@@ -1,0 +1,17 @@
+﻿
+.perfect-box-shadow {
+    border-radius: 8px !important; 
+    min-height: 350px !important; 
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1) !important;
+}
+
+.swal2-icon {
+    margin-top: 20px !important;
+}
+
+.swal2-title {
+    padding-top: 10px !important;
+}
